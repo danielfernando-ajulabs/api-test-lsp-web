@@ -1,6 +1,5 @@
 {
   "products": [
-    // Categoria: Cama
     {
       "productId": 1,
       "title": "Lençol de Algodão King",
@@ -46,8 +45,6 @@
       ],
       "categoryId": 1
     },
-
-    // Categoria: Cortinas
     {
       "productId": 6,
       "title": "Cortina Blackout 2,50x1,80m",
@@ -93,8 +90,6 @@
       ],
       "categoryId": 2
     },
-
-    // Categoria: Banho
     {
       "productId": 11,
       "title": "Toalha de Banho 100% Algodão",
