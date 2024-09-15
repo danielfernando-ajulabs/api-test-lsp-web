@@ -1,0 +1,48 @@
+{
+  "products": [
+    {
+      "productId": 1,
+      "title": "Jogo de Lençol Queen 4 Peças",
+      "description": "Conjunto de lençol queen com 4 peças em algodão 100%. Inclui 1 lençol de elástico, 1 lençol sem elástico e 2 fronhas.",
+      "images": [
+        "https://example.com/images/lencol-queen-front.jpg",
+        "https://example.com/images/lencol-queen-back.jpg"
+      ],
+      "categoryId": 1
+    },
+    {
+      "productId": 2,
+      "title": "Toalha de Banho Gigante 100% Algodão",
+      "description": "Toalha de banho gigante, macia e absorvente. Feita de algodão 100%, disponível em várias cores.",
+      "images": [
+        "https://example.com/images/toalha-banho-front.jpg",
+        "https://example.com/images/toalha-banho-back.jpg"
+      ],
+      "categoryId": 2
+    },
+    {
+      "productId": 3,
+      "title": "Jogo Americano de Tecido 6 Peças",
+      "description": "Conjunto de jogo americano em tecido, com 6 peças ideais para decorar sua mesa de jantar.",
+      "images": [
+        "https://example.com/images/jogo-americano-front.jpg",
+        "https://example.com/images/jogo-americano-back.jpg"
+      ],
+      "categoryId": 3
+    }
+  ],
+  "categories": [
+    {
+      "categoryId": 1,
+      "name": "Cama"
+    },
+    {
+      "categoryId": 2,
+      "name": "Banho"
+    },
+    {
+      "categoryId": 3,
+      "name": "Mesa"
+    }
+  ]
+}
