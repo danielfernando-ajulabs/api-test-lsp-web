@@ -1,36 +1,147 @@
 {
   "products": [
+    // Categoria: Cama
     {
       "productId": 1,
-      "title": "Jogo de Lençol Queen 4 Peças",
-      "description": "Conjunto de lençol queen com 4 peças em algodão 100%. Inclui 1 lençol de elástico, 1 lençol sem elástico e 2 fronhas.",
+      "title": "Lençol de Algodão King",
+      "description": "Lençol de algodão para cama King, com elástico e acabamento macio.",
       "images": [
-        "https://example.com/images/lencol-queen-front.jpg",
-        "https://example.com/images/lencol-queen-back.jpg"
+        "https://example.com/images/lencol-king.jpg"
       ],
       "categoryId": 1
     },
     {
       "productId": 2,
-      "title": "Toalha de Banho Gigante 100% Algodão",
-      "description": "Toalha de banho gigante, macia e absorvente. Feita de algodão 100%, disponível em várias cores.",
+      "title": "Edredom Dupla Face Casal",
+      "description": "Edredom dupla face para cama de casal, feito de poliéster, ideal para todas as estações.",
       "images": [
-        "https://example.com/images/toalha-banho-front.jpg",
-        "https://example.com/images/toalha-banho-back.jpg"
+        "https://example.com/images/edredom-casal.jpg"
+      ],
+      "categoryId": 1
+    },
+    {
+      "productId": 3,
+      "title": "Travesseiro Ortopédico Viscoelástico",
+      "description": "Travesseiro ortopédico feito com espuma viscoelástica para maior conforto cervical.",
+      "images": [
+        "https://example.com/images/travesseiro-ortopedico.jpg"
+      ],
+      "categoryId": 1
+    },
+    {
+      "productId": 4,
+      "title": "Cobertor Microfibra Queen",
+      "description": "Cobertor tamanho Queen de microfibra, leve e aquecedor para as noites frias.",
+      "images": [
+        "https://example.com/images/cobertor-queen.jpg"
+      ],
+      "categoryId": 1
+    },
+    {
+      "productId": 5,
+      "title": "Protetor de Colchão Impermeável",
+      "description": "Protetor impermeável para colchão, proteção extra contra líquidos e sujeira.",
+      "images": [
+        "https://example.com/images/protetor-colchao.jpg"
+      ],
+      "categoryId": 1
+    },
+
+    // Categoria: Cortinas
+    {
+      "productId": 6,
+      "title": "Cortina Blackout 2,50x1,80m",
+      "description": "Cortina blackout para janelas, bloqueia a luz e reduz ruídos.",
+      "images": [
+        "https://example.com/images/cortina-blackout.jpg"
       ],
       "categoryId": 2
     },
     {
-      "productId": 3,
-      "title": "Jogo Americano de Tecido 6 Peças",
-      "description": "Conjunto de jogo americano em tecido, com 6 peças ideais para decorar sua mesa de jantar.",
+      "productId": 7,
+      "title": "Cortina de Voil com Ilhós",
+      "description": "Cortina de voil leve com ilhós, ideal para salas e quartos com decoração moderna.",
       "images": [
-        "https://example.com/images/jogo-americano-front.jpg",
-        "https://example.com/images/jogo-americano-back.jpg"
+        "https://example.com/images/cortina-voil.jpg"
+      ],
+      "categoryId": 2
+    },
+    {
+      "productId": 8,
+      "title": "Cortina de Tecido Rústico",
+      "description": "Cortina de tecido rústico em tons naturais, para um visual aconchegante.",
+      "images": [
+        "https://example.com/images/cortina-tecido-rustico.jpg"
+      ],
+      "categoryId": 2
+    },
+    {
+      "productId": 9,
+      "title": "Cortina Infantil Estampada",
+      "description": "Cortina estampada com personagens infantis, ideal para decorar quartos de crianças.",
+      "images": [
+        "https://example.com/images/cortina-infantil.jpg"
+      ],
+      "categoryId": 2
+    },
+    {
+      "productId": 10,
+      "title": "Cortina de Linho com Forro",
+      "description": "Cortina de linho com forro, proporciona privacidade sem perder a luminosidade.",
+      "images": [
+        "https://example.com/images/cortina-linho.jpg"
+      ],
+      "categoryId": 2
+    },
+
+    // Categoria: Banho
+    {
+      "productId": 11,
+      "title": "Toalha de Banho 100% Algodão",
+      "description": "Toalha de banho feita em 100% algodão, macia e super absorvente.",
+      "images": [
+        "https://example.com/images/toalha-algodao.jpg"
+      ],
+      "categoryId": 3
+    },
+    {
+      "productId": 12,
+      "title": "Roupão de Banho Unissex",
+      "description": "Roupão de banho unissex, confortável e perfeito para uso diário.",
+      "images": [
+        "https://example.com/images/roupao.jpg"
+      ],
+      "categoryId": 3
+    },
+    {
+      "productId": 13,
+      "title": "Tapete de Banho Antiderrapante",
+      "description": "Tapete de banho antiderrapante em algodão, seguro e confortável.",
+      "images": [
+        "https://example.com/images/tapete-banho.jpg"
+      ],
+      "categoryId": 3
+    },
+    {
+      "productId": 14,
+      "title": "Toalha de Rosto Decorativa",
+      "description": "Toalha de rosto decorativa com bordados delicados, ideal para banheiros.",
+      "images": [
+        "https://example.com/images/toalha-rosto.jpg"
+      ],
+      "categoryId": 3
+    },
+    {
+      "productId": 15,
+      "title": "Jogo de Toalhas 5 Peças",
+      "description": "Jogo de toalhas com 5 peças, incluindo toalhas de banho, rosto e piso.",
+      "images": [
+        "https://example.com/images/jogo-toalhas.jpg"
       ],
       "categoryId": 3
     }
-  ],
+  ]
+},
   "categories": [
     {
       "categoryId": 1,
@@ -38,11 +149,11 @@
     },
     {
       "categoryId": 2,
-      "name": "Banho"
+      "name": "Cortinas"
     },
     {
       "categoryId": 3,
-      "name": "Mesa"
+      "name": "Banho"
     }
   ]
 }
