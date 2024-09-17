@@ -136,6 +136,7 @@
       "categoryId": 3
     }
   ],
+  [
   {
     "categoryId": 1,
     "name": "Cama",
@@ -163,5 +164,5 @@
     "createdAt": "2023-09-01T12:00:00Z",
     "updatedAt": "2023-09-10T14:00:00Z"
   }
-  ]
+],
 }
