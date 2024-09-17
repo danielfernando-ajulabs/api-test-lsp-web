@@ -136,18 +136,32 @@
       "categoryId": 3
     }
   ],
-  "categories": [
-    {
-      "categoryId": 1,
-      "name": "Cama"
-    },
-    {
-      "categoryId": 2,
-      "name": "Cortinas"
-    },
-    {
-      "categoryId": 3,
-      "name": "Banho"
-    }
+  {
+    "categoryId": 1,
+    "name": "Cama",
+    "description": "Produtos para cama, incluindo lençóis, travesseiros e cobertores.",
+    "parentCategoryId": null,
+    "imageBannerUrl": "https://exemplo.com/imagens/categorias/cama.jpg",
+    "createdAt": "2023-09-01T12:00:00Z",
+    "updatedAt": "2023-09-10T14:00:00Z"
+  },
+  {
+    "categoryId": 2,
+    "name": "Cortinas",
+    "description": "Variedade de cortinas para diferentes ambientes.",
+    "parentCategoryId": null,
+    "imageBannerUrl": "https://exemplo.com/imagens/categorias/cortinas.jpg",
+    "createdAt": "2023-09-01T12:00:00Z",
+    "updatedAt": "2023-09-10T14:00:00Z"
+  },
+  {
+    "categoryId": 3,
+    "name": "Banho",
+    "description": "Toalhas, roupões e acessórios para banho.",
+    "parentCategoryId": null,
+    "imageBannerUrl": "https://exemplo.com/imagens/categorias/banho.jpg",
+    "createdAt": "2023-09-01T12:00:00Z",
+    "updatedAt": "2023-09-10T14:00:00Z"
+  }
   ]
 }
