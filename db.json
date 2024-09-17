@@ -1,4 +1,4 @@
-{
+
   "products": [
     {
       "productId": 1,
@@ -136,8 +136,6 @@
       "categoryId": 3
     }
   ],
-  [
-  {
     "categoryId": 1,
     "name": "Cama",
     "description": "Produtos para cama, incluindo lençóis, travesseiros e cobertores.",
@@ -164,5 +162,5 @@
     "createdAt": "2023-09-01T12:00:00Z",
     "updatedAt": "2023-09-10T14:00:00Z"
   }
-],
+ ]
 }
