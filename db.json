@@ -142,7 +142,7 @@
       "name": "Cama",
       "description": "Produtos para cama, incluindo lençóis, travesseiros e cobertores.",
       "parentCategoryId": null,
-      "imageBannerUrl": "https://exemplo.com/imagens/categorias/cama.jpg",
+      "imageBannerUrl": "https://images.unsplash.com/photo-1521063105543-f2c8890df262?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "createdAt": "2023-09-01T12:00:00Z",
       "updatedAt": "2023-09-10T14:00:00Z"
     },
@@ -151,7 +151,7 @@
       "name": "Cortinas",
       "description": "Variedade de cortinas para diferentes ambientes.",
       "parentCategoryId": null,
-      "imageBannerUrl": "https://exemplo.com/imagens/categorias/cortinas.jpg",
+      "imageBannerUrl": "https://plus.unsplash.com/premium_photo-1677078369255-eff02ef409b8?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "createdAt": "2023-09-01T12:00:00Z",
       "updatedAt": "2023-09-10T14:00:00Z"
     },
@@ -160,7 +160,7 @@
       "name": "Banho",
       "description": "Toalhas, roupões e acessórios para banho.",
       "parentCategoryId": null,
-      "imageBannerUrl": "https://exemplo.com/imagens/categorias/banho.jpg",
+      "imageBannerUrl": "https://plus.unsplash.com/premium_photo-1676968002954-d165313b5601?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "createdAt": "2023-09-01T12:00:00Z",
       "updatedAt": "2023-09-10T14:00:00Z"
     },
@@ -169,7 +169,7 @@
       "name": "Lençois",
       "description": "Produtos para cama, incluindo lençóis, travesseiros e cobertores.",
       "parentCategoryId": null,
-      "imageBannerUrl": "https://exemplo.com/imagens/categorias/cama.jpg",
+      "imageBannerUrl": "https://plus.unsplash.com/premium_photo-1675537843200-78c1a0ea1736?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "createdAt": "2023-09-01T12:00:00Z",
       "updatedAt": "2023-09-10T14:00:00Z"
     },
@@ -178,7 +178,7 @@
       "name": "Almofadas",
       "description": "Variedade de cortinas para diferentes ambientes.",
       "parentCategoryId": null,
-      "imageBannerUrl": "https://exemplo.com/imagens/categorias/cortinas.jpg",
+      "imageBannerUrl": "https://plus.unsplash.com/premium_photo-1684445035187-c4bc7c96bc5d?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "createdAt": "2023-09-01T12:00:00Z",
       "updatedAt": "2023-09-10T14:00:00Z"
     },
@@ -187,7 +187,7 @@
       "name": "Edredom",
       "description": "Toalhas, roupões e acessórios para banho.",
       "parentCategoryId": null,
-      "imageBannerUrl": "https://exemplo.com/imagens/categorias/banho.jpg",
+      "imageBannerUrl": "https://plus.unsplash.com/premium_photo-1677078369255-eff02ef409b8?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "createdAt": "2023-09-01T12:00:00Z",
       "updatedAt": "2023-09-10T14:00:00Z"
     },
@@ -196,7 +196,7 @@
       "name": "Cama posta",
       "description": "Toalhas, roupões e acessórios para banho.",
       "parentCategoryId": null,
-      "imageBannerUrl": "https://exemplo.com/imagens/categorias/banho.jpg",
+      "imageBannerUrl": "https://images.unsplash.com/photo-1521063105543-f2c8890df262?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "createdAt": "2023-09-01T12:00:00Z",
       "updatedAt": "2023-09-10T14:00:00Z"
     },
@@ -205,7 +205,7 @@
       "name": "Mantas decorativas",
       "description": "Toalhas, roupões e acessórios para banho.",
       "parentCategoryId": null,
-      "imageBannerUrl": "https://exemplo.com/imagens/categorias/banho.jpg",
+      "imageBannerUrl": "https://plus.unsplash.com/premium_photo-1684445035187-c4bc7c96bc5d?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "createdAt": "2023-09-01T12:00:00Z",
       "updatedAt": "2023-09-10T14:00:00Z"
     },
@@ -214,7 +214,7 @@
       "name": "Mantas",
       "description": "Toalhas, roupões e acessórios para banho.",
       "parentCategoryId": null,
-      "imageBannerUrl": "https://exemplo.com/imagens/categorias/banho.jpg",
+      "imageBannerUrl": "https://plus.unsplash.com/premium_photo-1675537843200-78c1a0ea1736?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "createdAt": "2023-09-01T12:00:00Z",
       "updatedAt": "2023-09-10T14:00:00Z"
     }
