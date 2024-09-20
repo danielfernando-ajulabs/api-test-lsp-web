@@ -190,6 +190,24 @@
       "imageBannerUrl": "https://exemplo.com/imagens/categorias/banho.jpg",
       "createdAt": "2023-09-01T12:00:00Z",
       "updatedAt": "2023-09-10T14:00:00Z"
+    },
+    {
+      "categoryId": 7,
+      "name": "Edredom",
+      "description": "Toalhas, roupões e acessórios para banho.",
+      "parentCategoryId": null,
+      "imageBannerUrl": "https://exemplo.com/imagens/categorias/banho.jpg",
+      "createdAt": "2023-09-01T12:00:00Z",
+      "updatedAt": "2023-09-10T14:00:00Z"
+    },
+    {
+      "categoryId": 7,
+      "name": "Edredom",
+      "description": "Toalhas, roupões e acessórios para banho.",
+      "parentCategoryId": null,
+      "imageBannerUrl": "https://exemplo.com/imagens/categorias/banho.jpg",
+      "createdAt": "2023-09-01T12:00:00Z",
+      "updatedAt": "2023-09-10T14:00:00Z"
     }
   ]
 }
