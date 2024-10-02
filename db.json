@@ -1,4 +1,8 @@
 {
+  "currentPage": 1,
+  "pageSize": 5,
+  "totalPages": 6,
+  "totalProducts": 30,
   "products": [
     {
       "productId": 1,
@@ -7,7 +11,8 @@
       "images": [
         "https://example.com/images/lencol-king.jpg"
       ],
-      "categoryId": 1
+      "categoryId": 1,
+      "isOff": false
     },
     {
       "productId": 2,
@@ -16,7 +21,8 @@
       "images": [
         "https://example.com/images/edredom-casal.jpg"
       ],
-      "categoryId": 1
+      "categoryId": 1,
+      "isOff": false
     },
     {
       "productId": 3,
@@ -25,7 +31,8 @@
       "images": [
         "https://example.com/images/travesseiro-ortopedico.jpg"
       ],
-      "categoryId": 1
+      "categoryId": 1,
+      "isOff": true
     },
     {
       "productId": 4,
@@ -34,7 +41,8 @@
       "images": [
         "https://example.com/images/cobertor-queen.jpg"
       ],
-      "categoryId": 1
+      "categoryId": 1,
+      "isOff": false
     },
     {
       "productId": 5,
@@ -43,97 +51,258 @@
       "images": [
         "https://example.com/images/protetor-colchao.jpg"
       ],
-      "categoryId": 1
+      "categoryId": 1,
+      "isOff": true
     },
     {
       "productId": 6,
-      "title": "Cortina Blackout 2,50x1,80m",
-      "description": "Cortina blackout para janelas, bloqueia a luz e reduz ruídos.",
+      "title": "Capa de Edredom Estampada",
+      "description": "Capa de edredom com estampas modernas, ideal para dar um toque especial ao quarto.",
       "images": [
-        "https://example.com/images/cortina-blackout.jpg"
+        "https://example.com/images/capa-edredom.jpg"
       ],
-      "categoryId": 2
+      "categoryId": 1,
+      "isOff": false
     },
     {
       "productId": 7,
-      "title": "Cortina de Voil com Ilhós",
-      "description": "Cortina de voil leve com ilhós, ideal para salas e quartos com decoração moderna.",
+      "title": "Jogo de Cama Queen",
+      "description": "Jogo de cama queen com 4 peças, em 100% algodão.",
       "images": [
-        "https://example.com/images/cortina-voil.jpg"
+        "https://example.com/images/jogo-cama-queen.jpg"
       ],
-      "categoryId": 2
+      "categoryId": 1,
+      "isOff": true
     },
     {
       "productId": 8,
-      "title": "Cortina de Tecido Rústico",
-      "description": "Cortina de tecido rústico em tons naturais, para um visual aconchegante.",
+      "title": "Travesseiro de Plumas",
+      "description": "Travesseiro de plumas para maior conforto e maciez.",
       "images": [
-        "https://example.com/images/cortina-tecido-rustico.jpg"
+        "https://example.com/images/travesseiro-plumas.jpg"
       ],
-      "categoryId": 2
+      "categoryId": 1,
+      "isOff": false
     },
     {
       "productId": 9,
-      "title": "Cortina Infantil Estampada",
-      "description": "Cortina estampada com personagens infantis, ideal para decorar quartos de crianças.",
+      "title": "Colcha Crochê Casal",
+      "description": "Colcha de crochê para cama de casal, elegante e confortável.",
       "images": [
-        "https://example.com/images/cortina-infantil.jpg"
+        "https://example.com/images/colcha-croche.jpg"
       ],
-      "categoryId": 2
+      "categoryId": 1,
+      "isOff": true
     },
     {
       "productId": 10,
-      "title": "Cortina de Linho com Forro",
-      "description": "Cortina de linho com forro, proporciona privacidade sem perder a luminosidade.",
+      "title": "Capa de Almofada Decorativa",
+      "description": "Capa de almofada decorativa com design moderno.",
       "images": [
-        "https://example.com/images/cortina-linho.jpg"
+        "https://example.com/images/capa-almofada.jpg"
       ],
-      "categoryId": 2
+      "categoryId": 1,
+      "isOff": false
     },
     {
       "productId": 11,
-      "title": "Toalha de Banho 100% Algodão",
-      "description": "Toalha de banho feita em 100% algodão, macia e super absorvente.",
+      "title": "Cortina Blackout para Sala",
+      "description": "Cortina blackout que bloqueia a luz e proporciona privacidade.",
       "images": [
-        "https://example.com/images/toalha-algodao.jpg"
+        "https://example.com/images/cortina-blackout-sala.jpg"
       ],
-      "categoryId": 3
+      "categoryId": 2,
+      "isOff": false
     },
     {
       "productId": 12,
-      "title": "Roupão de Banho Unissex",
-      "description": "Roupão de banho unissex, confortável e perfeito para uso diário.",
+      "title": "Cortina Voil para Quarto",
+      "description": "Cortina de voil leve, ideal para ambientes que precisam de luminosidade.",
       "images": [
-        "https://example.com/images/roupao.jpg"
+        "https://example.com/images/cortina-voil.jpg"
       ],
-      "categoryId": 3
+      "categoryId": 2,
+      "isOff": true
     },
     {
       "productId": 13,
-      "title": "Tapete de Banho Antiderrapante",
-      "description": "Tapete de banho antiderrapante em algodão, seguro e confortável.",
+      "title": "Cortina de Linho Natural",
+      "description": "Cortina de linho natural, trazendo um toque rústico ao ambiente.",
       "images": [
-        "https://example.com/images/tapete-banho.jpg"
+        "https://example.com/images/cortina-linho.jpg"
       ],
-      "categoryId": 3
+      "categoryId": 2,
+      "isOff": false
     },
     {
       "productId": 14,
-      "title": "Toalha de Rosto Decorativa",
-      "description": "Toalha de rosto decorativa com bordados delicados, ideal para banheiros.",
+      "title": "Cortina com Estampa Floral",
+      "description": "Cortina estampada com design floral, perfeita para decoração.",
       "images": [
-        "https://example.com/images/toalha-rosto.jpg"
+        "https://example.com/images/cortina-floral.jpg"
       ],
-      "categoryId": 3
+      "categoryId": 2,
+      "isOff": false
     },
     {
       "productId": 15,
-      "title": "Jogo de Toalhas 5 Peças",
-      "description": "Jogo de toalhas com 5 peças, incluindo toalhas de banho, rosto e piso.",
+      "title": "Cortina para Varão",
+      "description": "Cortina para varão, fácil de instalar e de lavar.",
       "images": [
-        "https://example.com/images/jogo-toalhas.jpg"
+        "https://example.com/images/cortina-varao.jpg"
       ],
-      "categoryId": 3
+      "categoryId": 2,
+      "isOff": true
+    },
+    {
+      "productId": 16,
+      "title": "Cortina de Tecido Jacquard",
+      "description": "Cortina de tecido jacquard, elegante e sofisticada.",
+      "images": [
+        "https://example.com/images/cortina-jacquard.jpg"
+      ],
+      "categoryId": 2,
+      "isOff": false
+    },
+    {
+      "productId": 17,
+      "title": "Cortina de Pano Misto",
+      "description": "Cortina de pano misto, versátil e fácil de combinar.",
+      "images": [
+        "https://example.com/images/cortina-pano-misto.jpg"
+      ],
+      "categoryId": 2,
+      "isOff": true
+    },
+    {
+      "productId": 18,
+      "title": "Cortina de Organza",
+      "description": "Cortina de organza leve e delicada.",
+      "images": [
+        "https://example.com/images/cortina-organza.jpg"
+      ],
+      "categoryId": 2,
+      "isOff": false
+    },
+    {
+      "productId": 19,
+      "title": "Cortina para Quarto de Bebê",
+      "description": "Cortina com design lúdico para o quarto do bebê.",
+      "images": [
+        "https://example.com/images/cortina-bebe.jpg"
+      ],
+      "categoryId": 2,
+      "isOff": true
+    },
+    {
+      "productId": 20,
+      "title": "Cortina Estampada Infantil",
+      "description": "Cortina estampada com personagens infantis.",
+      "images": [
+        "https://example.com/images/cortina-infantil.jpg"
+      ],
+      "categoryId": 2,
+      "isOff": false
+    },
+    {
+      "productId": 21,
+      "title": "Toalha de Banho Algodão",
+      "description": "Toalha de banho em algodão, super macia e absorvente.",
+      "images": [
+        "https://example.com/images/toalha-banho.jpg"
+      ],
+      "categoryId": 3,
+      "isOff": false
+    },
+    {
+      "productId": 22,
+      "title": "Toalha de Rosto",
+      "description": "Toalha de rosto em algodão, ideal para uso diário.",
+      "images": [
+        "https://example.com/images/toalha-rosto.jpg"
+      ],
+      "categoryId": 3,
+      "isOff": true
+    },
+    {
+      "productId": 23,
+      "title": "Roupão de Banho",
+      "description": "Roupão de banho em microfibra, leve e aconchegante.",
+      "images": [
+        "https://example.com/images/roupao.jpg"
+      ],
+      "categoryId": 3,
+      "isOff": false
+    },
+    {
+      "productId": 24,
+      "title": "Toalha de Praia",
+      "description": "Toalha de praia grande, estampada e super absorvente.",
+      "images": [
+        "https://example.com/images/toalha-praia.jpg"
+      ],
+      "categoryId": 3,
+      "isOff": false
+    },
+    {
+      "productId": 25,
+      "title": "Toalha de Mesa",
+      "description": "Toalha de mesa de algodão, ideal para ocasiões especiais.",
+      "images": [
+        "https://example.com/images/toalha-mesa.jpg"
+      ],
+      "categoryId": 3,
+      "isOff": true
+    },
+    {
+      "productId": 26,
+      "title": "Toalha de Banho Extra Grande",
+      "description": "Toalha de banho extra grande, perfeita para quem gosta de conforto.",
+      "images": [
+        "https://example.com/images/toalha-banho-extra.jpg"
+      ],
+      "categoryId": 3,
+      "isOff": false
+    },
+    {
+      "productId": 27,
+      "title": "Toalha de Algodão Orgânico",
+      "description": "Toalha feita de algodão orgânico, sustentável e macia.",
+      "images": [
+        "https://example.com/images/toalha-algodao-organico.jpg"
+      ],
+      "categoryId": 3,
+      "isOff": true
+    },
+    {
+      "productId": 28,
+      "title": "Toalha de Banho com Capuz",
+      "description": "Toalha de banho com capuz, ideal para crianças.",
+      "images": [
+        "https://example.com/images/toalha-capuz.jpg"
+      ],
+      "categoryId": 3,
+      "isOff": false
+    },
+    {
+      "productId": 29,
+      "title": "Toalha de Banho com Estampa",
+      "description": "Toalha de banho com estampas modernas e coloridas.",
+      "images": [
+        "https://example.com/images/toalha-banho-estampada.jpg"
+      ],
+      "categoryId": 3,
+      "isOff": true
+    },
+    {
+      "productId": 30,
+      "title": "Toalha de Microfibra",
+      "description": "Toalha de microfibra, secagem rápida e fácil transporte.",
+      "images": [
+        "https://example.com/images/toalha-microfibra.jpg"
+      ],
+      "categoryId": 3,
+      "isOff": false
     }
   ],
   "categories": [
@@ -161,60 +330,6 @@
       "description": "Toalhas, roupões e acessórios para banho.",
       "parentCategoryId": null,
       "imageBannerUrl": "https://plus.unsplash.com/premium_photo-1676968002954-d165313b5601?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "createdAt": "2023-09-01T12:00:00Z",
-      "updatedAt": "2023-09-10T14:00:00Z"
-    },
-    {
-      "categoryId": 4,
-      "name": "Lençois",
-      "description": "Produtos para cama, incluindo lençóis, travesseiros e cobertores.",
-      "parentCategoryId": null,
-      "imageBannerUrl": "https://plus.unsplash.com/premium_photo-1675537843200-78c1a0ea1736?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "createdAt": "2023-09-01T12:00:00Z",
-      "updatedAt": "2023-09-10T14:00:00Z"
-    },
-    {
-      "categoryId": 5,
-      "name": "Almofadas",
-      "description": "Variedade de cortinas para diferentes ambientes.",
-      "parentCategoryId": null,
-      "imageBannerUrl": "https://plus.unsplash.com/premium_photo-1684445035187-c4bc7c96bc5d?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "createdAt": "2023-09-01T12:00:00Z",
-      "updatedAt": "2023-09-10T14:00:00Z"
-    },
-    {
-      "categoryId": 6,
-      "name": "Edredom",
-      "description": "Toalhas, roupões e acessórios para banho.",
-      "parentCategoryId": null,
-      "imageBannerUrl": "https://plus.unsplash.com/premium_photo-1677078369255-eff02ef409b8?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "createdAt": "2023-09-01T12:00:00Z",
-      "updatedAt": "2023-09-10T14:00:00Z"
-    },
-    {
-      "categoryId": 7,
-      "name": "Cama posta",
-      "description": "Toalhas, roupões e acessórios para banho.",
-      "parentCategoryId": null,
-      "imageBannerUrl": "https://images.unsplash.com/photo-1521063105543-f2c8890df262?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "createdAt": "2023-09-01T12:00:00Z",
-      "updatedAt": "2023-09-10T14:00:00Z"
-    },
-    {
-      "categoryId": 8,
-      "name": "Mantas decorativas",
-      "description": "Toalhas, roupões e acessórios para banho.",
-      "parentCategoryId": null,
-      "imageBannerUrl": "https://plus.unsplash.com/premium_photo-1684445035187-c4bc7c96bc5d?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "createdAt": "2023-09-01T12:00:00Z",
-      "updatedAt": "2023-09-10T14:00:00Z"
-    },
-    {
-      "categoryId": 9,
-      "name": "Mantas",
-      "description": "Toalhas, roupões e acessórios para banho.",
-      "parentCategoryId": null,
-      "imageBannerUrl": "https://plus.unsplash.com/premium_photo-1675537843200-78c1a0ea1736?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "createdAt": "2023-09-01T12:00:00Z",
       "updatedAt": "2023-09-10T14:00:00Z"
     }
