@@ -4,29 +4,23 @@
       "productId": 1,
       "title": "Lençol de Algodão King",
       "description": "Lençol de algodão para cama King, com elástico e acabamento macio.",
-      "images": [
-        "https://example.com/images/lencol-king.jpg"
-      ],
+      "image": "https://images.unsplash.com/photo-1506720186575-11354d325017?q=80&w=1475&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "categoryId": 1,
-      "isOff": false
+      "isOff": true
     },
     {
       "productId": 2,
       "title": "Edredom Dupla Face Casal",
       "description": "Edredom dupla face para cama de casal, feito de poliéster, ideal para todas as estações.",
-      "images": [
-        "https://example.com/images/edredom-casal.jpg"
-      ],
+      "image": "https://images.unsplash.com/photo-1506720186575-11354d325017?q=80&w=1475&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "categoryId": 1,
-      "isOff": false
+      "isOff": true
     },
     {
       "productId": 3,
       "title": "Travesseiro Ortopédico Viscoelástico",
       "description": "Travesseiro ortopédico feito com espuma viscoelástica para maior conforto cervical.",
-      "images": [
-        "https://example.com/images/travesseiro-ortopedico.jpg"
-      ],
+      "image": "https://images.unsplash.com/photo-1506720186575-11354d325017?q=80&w=1475&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "categoryId": 1,
       "isOff": true
     },
@@ -34,9 +28,7 @@
       "productId": 4,
       "title": "Cobertor Microfibra Queen",
       "description": "Cobertor tamanho Queen de microfibra, leve e aquecedor para as noites frias.",
-      "images": [
-        "https://example.com/images/cobertor-queen.jpg"
-      ],
+      "image": "https://images.unsplash.com/photo-1506720186575-11354d325017?q=80&w=1475&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "categoryId": 1,
       "isOff": false
     },
@@ -44,9 +36,7 @@
       "productId": 5,
       "title": "Protetor de Colchão Impermeável",
       "description": "Protetor impermeável para colchão, proteção extra contra líquidos e sujeira.",
-      "images": [
-        "https://example.com/images/protetor-colchao.jpg"
-      ],
+      "image": "https://images.unsplash.com/photo-1506720186575-11354d325017?q=80&w=1475&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "categoryId": 1,
       "isOff": true
     },
@@ -54,19 +44,15 @@
       "productId": 6,
       "title": "Cortina Blackout para Sala",
       "description": "Cortina blackout que bloqueia a luz e proporciona privacidade.",
-      "images": [
-        "https://example.com/images/cortina-blackout-sala.jpg"
-      ],
+      "image": "https://images.unsplash.com/photo-1506720186575-11354d325017?q=80&w=1475&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "categoryId": 2,
-      "isOff": false
+      "isOff": true
     },
     {
       "productId": 7,
       "title": "Cortina Voil para Quarto",
       "description": "Cortina de voil leve, ideal para ambientes que precisam de luminosidade.",
-      "images": [
-        "https://example.com/images/cortina-voil.jpg"
-      ],
+      "image": "https://images.unsplash.com/photo-1506720186575-11354d325017?q=80&w=1475&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "categoryId": 2,
       "isOff": true
     },
@@ -74,9 +60,7 @@
       "productId": 8,
       "title": "Cortina com Estampa Floral",
       "description": "Cortina estampada com design floral, perfeita para decoração.",
-      "images": [
-        "https://example.com/images/cortina-floral.jpg"
-      ],
+      "image": "https://images.unsplash.com/photo-1506720186575-11354d325017?q=80&w=1475&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "categoryId": 2,
       "isOff": false
     },
@@ -84,9 +68,7 @@
       "productId": 9,
       "title": "Cortina de Tecido Jacquard",
       "description": "Cortina de tecido jacquard, elegante e sofisticada.",
-      "images": [
-        "https://example.com/images/cortina-jacquard.jpg"
-      ],
+      "image": "https://images.unsplash.com/photo-1506720186575-11354d325017?q=80&w=1475&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "categoryId": 2,
       "isOff": true
     },
@@ -94,9 +76,7 @@
       "productId": 10,
       "title": "Cortina de Pano Misto",
       "description": "Cortina de pano misto, versátil e fácil de combinar.",
-      "images": [
-        "https://example.com/images/cortina-pano-misto.jpg"
-      ],
+      "image": "https://images.unsplash.com/photo-1506720186575-11354d325017?q=80&w=1475&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "categoryId": 2,
       "isOff": false
     },
@@ -104,19 +84,15 @@
       "productId": 11,
       "title": "Toalha de Banho Algodão",
       "description": "Toalha de banho em algodão, super macia e absorvente.",
-      "images": [
-        "https://example.com/images/toalha-banho.jpg"
-      ],
+      "image": "https://images.unsplash.com/photo-1506720186575-11354d325017?q=80&w=1475&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "categoryId": 3,
-      "isOff": false
+      "isOff": true
     },
     {
       "productId": 12,
       "title": "Toalha de Rosto",
       "description": "Toalha de rosto em algodão, ideal para uso diário.",
-      "images": [
-        "https://example.com/images/toalha-rosto.jpg"
-      ],
+      "image": "https://images.unsplash.com/photo-1506720186575-11354d325017?q=80&w=1475&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "categoryId": 3,
       "isOff": true
     },
@@ -124,29 +100,23 @@
       "productId": 13,
       "title": "Roupão de Banho",
       "description": "Roupão de banho em microfibra, leve e aconchegante.",
-      "images": [
-        "https://example.com/images/roupao.jpg"
-      ],
+      "image": "https://images.unsplash.com/photo-1506720186575-11354d325017?q=80&w=1475&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "categoryId": 3,
-      "isOff": false
+      "isOff": true
     },
     {
       "productId": 14,
       "title": "Toalha de Praia",
-      "description": "Toalha de praia grande, estampada e super absorvente.",
-      "images": [
-        "https://example.com/images/toalha-praia.jpg"
-      ],
+      "description": "Toalha de praia grande, ideal para dias de sol.",
+      "image": "https://images.unsplash.com/photo-1506720186575-11354d325017?q=80&w=1475&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "categoryId": 3,
       "isOff": false
     },
     {
       "productId": 15,
-      "title": "Toalha de Banho com Capuz",
-      "description": "Toalha de banho com capuz, ideal para crianças.",
-      "images": [
-        "https://example.com/images/toalha-capuz.jpg"
-      ],
+      "title": "Toalha de Mesa",
+      "description": "Toalha de mesa em algodão, ideal para refeições em família.",
+      "image": "https://images.unsplash.com/photo-1506720186575-11354d325017?q=80&w=1475&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "categoryId": 3,
       "isOff": true
     }
