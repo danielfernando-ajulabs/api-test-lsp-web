@@ -101,7 +101,7 @@
       "title": "Toalha de Banho Algodão",
       "description": "Toalha de banho em algodão, super macia e absorvente.",
       "image": "https://images.unsplash.com/photo-1506720186575-11354d325017?q=80&w=1475&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "categoryId": 3,
+      "categoryId": 4,
       "isOff": true
     },
     {
@@ -109,7 +109,7 @@
       "title": "Toalha de Rosto",
       "description": "Toalha de rosto em algodão, ideal para uso diário.",
       "image": "https://images.unsplash.com/photo-1506720186575-11354d325017?q=80&w=1475&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "categoryId": 3,
+      "categoryId": 4,
       "isOff": true
     },
     {
@@ -117,7 +117,7 @@
       "title": "Roupão de Banho",
       "description": "Roupão de banho em microfibra, leve e aconchegante.",
       "image": "https://images.unsplash.com/photo-1506720186575-11354d325017?q=80&w=1475&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "categoryId": 3,
+      "categoryId": 4,
       "isOff": true
     },
     {
@@ -125,7 +125,7 @@
       "title": "Toalha de Praia",
       "description": "Toalha de praia grande, ideal para dias de sol.",
       "image": "https://images.unsplash.com/photo-1506720186575-11354d325017?q=80&w=1475&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "categoryId": 3,
+      "categoryId": 4,
       "isOff": true
     },
     {
@@ -133,7 +133,7 @@
       "title": "Toalha de Mesa",
       "description": "Toalha de mesa em algodão, ideal para refeições em família.",
       "image": "https://images.unsplash.com/photo-1506720186575-11354d325017?q=80&w=1475&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "categoryId": 3,
+      "categoryId": 4,
       "isOff": true
     },
     {
@@ -141,7 +141,7 @@
       "title": "Toalha de Mesa",
       "description": "Toalha de mesa em algodão, ideal para refeições em família.",
       "image": "https://images.unsplash.com/photo-1506720186575-11354d325017?q=80&w=1475&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "categoryId": 3,
+      "categoryId": 4,
       "isOff": true
     }
   ],
@@ -168,6 +168,15 @@
       "categoryId": 3,
       "name": "Banho",
       "description": "Toalhas, roupões e acessórios para banho.",
+      "parentCategoryId": null,
+      "imageBannerUrl": "https://plus.unsplash.com/premium_photo-1676968002954-d165313b5601?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "createdAt": "2023-09-01T12:00:00Z",
+      "updatedAt": "2023-09-10T14:00:00Z"
+    },
+    {
+      "categoryId": 4,
+      "name": "Travesseiros",
+      "description": "Travesseiros bacanas.",
       "parentCategoryId": null,
       "imageBannerUrl": "https://plus.unsplash.com/premium_photo-1676968002954-d165313b5601?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "createdAt": "2023-09-01T12:00:00Z",
